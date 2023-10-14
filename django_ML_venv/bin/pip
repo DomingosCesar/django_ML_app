@@ -1,4 +1,4 @@
-#!/Users/domingoscesar/Documents/GitHub/django_ML_app/django_ML_venv/bin/python3.11
+#!/Users/domingoscesar/Documents/GitHub/django_ML_app/django_ML_venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
